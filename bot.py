@@ -1,4 +1,4 @@
--import telebot
+﻿import telebot
 from telebot import types
 from random import randint, choice
 from collections import defaultdict
@@ -326,3 +326,4 @@ def show_top_balances(message):
 
 # بدء تشغيل البوت
 bot.polling()
+
